@@ -36,14 +36,14 @@
     vertical-align: middle;
 }
 
-.menu__list{
+.menu{
     flex: 1;
     display: flex;
     flex-direction: column;
     gap: 10px;
 }
 
-.menu__list-item{
+.menu__item{
     background-color: #95A5A6;
     width: 100%;
     padding: 5px 0 5px 5px;
@@ -72,7 +72,7 @@
     .image-list__item{
         flex-basis: 350px;
     }
-    .menu__list-item{
+    .menu__item{
         font-size: 20px;
         padding: 7px 0 7px 7px;
     }
