@@ -1,6 +1,6 @@
 # Tech Magic HTML Task
 > Live demo
->  [_here_](https://vadimturok.github.io/articles-task/). <!-- If you have the project hosted somewhere, include the link here. -->
+>  [_here_](https://vadimturok.github.io/tech-magic-task1/). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [Technologies Used](#technologies-used)
